@@ -1,0 +1,2 @@
+Hello, This is a text file.
+We have used fetch Api here.
